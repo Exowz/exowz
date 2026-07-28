@@ -1,6 +1,6 @@
-<!-- ===== Animated header banner ===== -->
+<!-- ===== Animated header banner (SVG statique committé -> fiable via raw.githubusercontent) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ewan%20KAPOOR&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Data%20%26%20AI%20%20%7C%20%20Agents%20IA%20%20%7C%20%20RAG%20%20%7C%20%20Data%20Engineering&descAlignY=60&descSize=16&descColor=ffffff" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Exowz/Exowz/main/header.svg" width="100%" alt="Ewan KAPOOR - Data & AI"/>
 </p>
 
 <!-- ===== Animated typing tagline ===== -->
@@ -110,5 +110,5 @@
 <p align="left"><i>« Réduire la distance entre "ça marche techniquement" et "quelqu'un peut s'en servir pour décider". »</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Exowz/Exowz/main/footer.svg" width="100%" alt=""/>
 </p>
