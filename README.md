@@ -1,6 +1,6 @@
 <!-- ===== Animated header banner (SVG statique committé -> fiable via raw.githubusercontent) ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Exowz/Exowz/main/header.svg" width="100%" alt="Ewan KAPOOR - Data & AI"/>
+  <img src="https://raw.githubusercontent.com/Exowz/Exowz/main/header.svg?v=1" width="100%" alt="Ewan KAPOOR - Data & AI"/>
 </p>
 
 <!-- ===== Animated typing tagline ===== -->
@@ -105,5 +105,5 @@
 <p align="left"><i>« Réduire la distance entre "ça marche techniquement" et "quelqu'un peut s'en servir pour décider". »</i></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Exowz/Exowz/main/footer.svg" width="100%" alt=""/>
+  <img src="https://raw.githubusercontent.com/Exowz/Exowz/main/footer.svg?v=1" width="100%" alt=""/>
 </p>
