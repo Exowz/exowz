@@ -85,16 +85,11 @@
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Exowz&theme=default"/>
 </p>
 
-<!-- ===== Snake animation =====
-     DÉCOMMENTE ce bloc UNIQUEMENT après avoir ajouté .github/workflows/snake.yml ET lancé l'action une fois
-     (onglet Actions > Generate Snake > Run workflow). Sinon l'image est cassée car la branche "output" n'existe pas encore.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Exowz/Exowz/output/snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Exowz/Exowz/output/snake.svg"/>
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Exowz/Exowz/output/snake.svg"/>
 </picture>
--->
-🐍 <i>Snake animation : ajoute le workflow ci-dessous puis décommente le bloc (voir instructions).</i>
 
 ###
 
